@@ -72,10 +72,8 @@ ul {
      max-height: 500px;
      position: relative;
      left:450px;
-     top: -350px;
-    color: #FFFFFF;
-
-
+     top: -290px;
+     color: #FFFFFF;
 }
 
 #faceApi{
@@ -84,6 +82,17 @@ ul {
     max-height: 500px;
     position: relative;
     left:900px;
-    top: -700px;
+    top: -650px;
     color: #FFFFFF;
+}
+
+#menuFooter a{
+    color: #ffffff!important;
+}
+
+#menuFooter a:hover{
+    color: #ffffff!important;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    text-rendering: optimizeLegibility;
 }
